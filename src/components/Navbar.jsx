@@ -25,7 +25,7 @@ export default function Navbar() {
           <span className="grid h-9 w-9 place-items-center rounded-xl bg-cyan-400 text-slate-950">
             <Code2 size={20} />
           </span>
-          Satendra<span className="text-cyan-300">.</span>
+          Satendra<span className="text-cyan-300">Kumar</span>
         </Link>
 
         <nav className="hidden items-center gap-8 md:flex">
